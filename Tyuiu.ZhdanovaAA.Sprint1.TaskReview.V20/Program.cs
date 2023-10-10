@@ -51,4 +51,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.TaskReview.V20
             Console.ReadKey();
         }
     }
-}
+} 

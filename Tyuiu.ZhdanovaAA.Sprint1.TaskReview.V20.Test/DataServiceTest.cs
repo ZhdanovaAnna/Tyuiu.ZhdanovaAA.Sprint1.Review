@@ -16,4 +16,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.TaskReview.V20.Test
             Assert.AreEqual(1.449, ds.Calculate(x, y));
         }
     }
-}
+} 
